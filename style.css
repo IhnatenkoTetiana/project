@@ -307,6 +307,11 @@ left: 0;
 .menu{
 width: 220px;
 }
+.burger-menu_link{
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 15px;
+}
 }
 section {
   display: flex;
@@ -331,6 +336,7 @@ section {
 #section-2 {
  background-color: rgba(218, 188, 212, 0.952); 
  color: #fff;
+ font-family: 'Roboto Mono', monospace;
 }
 
 #section-3 {
@@ -338,11 +344,13 @@ section {
   background-size: cover;
   color: rgb(113, 153, 125);
   text-shadow: 4px 4px 3px rgb(105, 124, 87);
+  font-family: 'Roboto Mono', monospace;
 }
 
 #section-4 {
  background-color: rgb(248, 170, 229); 
  color: #fff;
+ font-family: 'Roboto Mono', monospace;
 }
 
 #section-5 {
@@ -351,4 +359,5 @@ section {
   background-size: cover;
   color: #dfa0ff;
   text-shadow: 0px 0px 15px #a9a9e4;
+  font-family: 'Roboto Mono', monospace;
 }
