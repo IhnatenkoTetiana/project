@@ -319,7 +319,7 @@ section {
 }
 
 #section-1 {
-  background-image: url(/pet-project/pet-project/image/section_1.jpg);
+  background-image: url(/section_1.jpg);
   background-attachment: fixed;
   background-size: cover;
   color: #51524f;
@@ -333,7 +333,7 @@ section {
 }
 
 #section-3 {
- background-image: url(/pet-project/pet-project/image/section_3.jpg) ; 
+ background-image: url(/section_3.jpg) ; 
   background-size: cover;
   color: rgb(113, 153, 125);
   text-shadow: 4px 4px 3px rgb(105, 124, 87);
@@ -345,7 +345,7 @@ section {
 }
 
 #section-5 {
- background-image: url(/pet-project/pet-project/image/section_5.jpg);
+ background-image: url(/section_5.jpg);
   background-attachment: fixed;
   background-size: cover;
   color: #dfa0ff;
